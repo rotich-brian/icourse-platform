@@ -1,0 +1,3 @@
+# Ignore backend DB directory
+backend/DB/
+/backend/DB/

@@ -1,4 +1,4 @@
-mongoD=> mongod --dbpath /home/briank/Desktop/Projects/iCourse Web/backend/DB
+mongoD=> mongod --dbpath /home/sudo-k/Desktop/Projects/iCourse Web/backend/DB
 => mongosh
 
 react=> cd frontend, npm run dev
